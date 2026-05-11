@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>javamurray.com</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on javamurray.com</description>
+    <title>Website_pages on javamurray.com</title>
+    <link>http://localhost:1313/website_pages/</link>
+    <description>Recent content in Website_pages on javamurray.com</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/website_pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>http://localhost:1313/aboutme/</link>
@@ -31,31 +31,6 @@ I have a love for design and prototyping, especially when it comes to turning id
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/java-coffee1&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Designing an Ornithopter</title>
-      <link>http://localhost:1313/projects/ornithopter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/ornithopter/</guid>
-      <description>&lt;div style=&#34;text-align: center; padding: 1rem 1rem; font-family: sans-serif; line-height: 1.3&#34;&gt;
-  &lt;h1 style=&#34;font-size: 3rem; margin-bottom: 0.25rem;&#34;&gt;Java Murray&lt;/h1&gt;
-&lt;/div&gt;
-&lt;div style=&#34;text-align: center; padding: 1rem 1rem; font-family: sans-serif;&#34;&gt;
-  &lt;h1 style=&#34;font-size: 2rem; margin: 0;&#34;&gt;DMA Project&lt;/h1&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h1&gt;
-&lt;p&gt;This year, I’ve been working on a series of small, focused projects that all contribute to a larger goal, of designing and building an ornithopter. Each task helped me learn new skills in 3D design, prototyping, and engineering, all leading to my final concept.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hydrontank Design</title>
-      <link>http://localhost:1313/projects/hydrontank/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/hydrontank/</guid>
-      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
-&lt;p&gt;This project started when Dr. Winter from Quantum Technology approached me with a design challenge: how would you suspend a hydrogen tank inside a vacuum chamber?&lt;/p&gt;
-&lt;p&gt;I was then asked to develop a CAD model of the concept we discussed so it could be included in a project proposal.&lt;/p&gt;
-&lt;h3 id=&#34;the-idea&#34;&gt;The Idea&lt;/h3&gt;
-&lt;p&gt;The concept was to use Kevlar cables to suspend the tank inside the chamber. This would allow the position of the tank to be adjusted by tightening or loosening the cables, enabling fine alignment and controlled positioning within the system.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Java Murray</title>
