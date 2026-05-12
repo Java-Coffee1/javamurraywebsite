@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Website_pages on javamurray.com</title>
-    <link>http://localhost:1313/website_pages/</link>
+    <link>https://javamurray.com/website_pages/</link>
     <description>Recent content in Website_pages on javamurray.com</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/website_pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://javamurray.com/website_pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/aboutme/</link>
+      <link>https://javamurray.com/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aboutme/</guid>
+      <guid>https://javamurray.com/aboutme/</guid>
       <description>&lt;p&gt;Hello I am Java, I am a high school student who likes to make things.
 I have a love for design and prototyping, especially when it comes to turning ideas into real, working systems.&lt;/p&gt;
 &lt;p&gt;I enjoy programming and building projects in areas like robotics, electronics, and mechatronics. I also spend a lot of time working on 3D printing and mechanical design, including mechanisms and linkages, and I like exploring how physical systems move and interact.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Information</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://javamurray.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://javamurray.com/contact/</guid>
       <description>&lt;h1 id=&#34;-contact-me&#34;&gt;📬 Contact Me&lt;/h1&gt;
 &lt;p&gt;Hi there! Feel free to reach out if you have questions, want to collaborate, or just want to say hello.&lt;/p&gt;
 &lt;hr&gt;
@@ -34,9 +34,9 @@ I have a love for design and prototyping, especially when it comes to turning id
     </item>
     <item>
       <title>Java Murray</title>
-      <link>http://localhost:1313/resume/</link>
+      <link>https://javamurray.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
+      <guid>https://javamurray.com/resume/</guid>
       <description>&lt;h4 id=&#34;contact&#34;&gt;Contact: &lt;a href=&#34;mailto:javamurray2@gmail.com&#34;&gt;javamurray2@gmail.com&lt;/a&gt;&lt;/h4&gt;
 &lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
 &lt;hr&gt;

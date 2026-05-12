@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/aboutme/</loc>
+    <loc>https://javamurray.com/aboutme/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://javamurray.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://javamurray.com/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/ornithopter/</loc>
+    <loc>https://javamurray.com/projects/ornithopter/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/hydrontank/</loc>
+    <loc>https://javamurray.com/projects/hydrontank/</loc>
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://javamurray.com/resume/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://javamurray.com/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://javamurray.com/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://javamurray.com/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/website_pages/</loc>
+    <loc>https://javamurray.com/website_pages/</loc>
   </url>
 </urlset>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on javamurray.com</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://javamurray.com/projects/</link>
     <description>Recent content in Projects on javamurray.com</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://javamurray.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Designing an Ornithopter</title>
-      <link>http://localhost:1313/projects/ornithopter/</link>
+      <link>https://javamurray.com/projects/ornithopter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/ornithopter/</guid>
+      <guid>https://javamurray.com/projects/ornithopter/</guid>
       <description>&lt;div style=&#34;text-align: center; padding: 1rem 1rem; font-family: sans-serif; line-height: 1.3&#34;&gt;
   &lt;h1 style=&#34;font-size: 3rem; margin-bottom: 0.25rem;&#34;&gt;Java Murray&lt;/h1&gt;
 &lt;/div&gt;
@@ -23,9 +23,9 @@
     </item>
     <item>
       <title>Hydrontank Design</title>
-      <link>http://localhost:1313/projects/hydrontank/</link>
+      <link>https://javamurray.com/projects/hydrontank/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/hydrontank/</guid>
+      <guid>https://javamurray.com/projects/hydrontank/</guid>
       <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;This project started when Dr. Winter from Quantum Technology approached me with a design challenge: how would you suspend a hydrogen tank inside a vacuum chamber?&lt;/p&gt;
 &lt;p&gt;I was then asked to develop a CAD model of the concept we discussed so it could be included in a project proposal.&lt;/p&gt;
