@@ -8,6 +8,16 @@
     <language>en</language>
     <atom:link href="https://javamurray.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Aquaponics Sensor System</title>
+      <link>https://javamurray.com/projects/aquaponics_portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://javamurray.com/projects/aquaponics_portfolio/</guid>
+      <description>&lt;h2 id=&#34;java-murray&#34;&gt;Java Murray.&lt;/h2&gt;
+&lt;h1 id=&#34;project-overveiw&#34;&gt;Project Overveiw.&lt;/h1&gt;
+&lt;p&gt;This project involved designing and developing a system to monitor live fish and water conditions in real time. The system collected data, including water level, pH, and temperature, using a water level sensor, pH sensor, and temperature sensors.&lt;/p&gt;
+&lt;p&gt;We used a ESP32 to gather data from the sensors and transmit it to a dashboard, where users could monitor the health of the system in real time. In addition to the monitoring of the dashboard, we also designed a calibration dashboard that allowed sensors to be calibrated and configured easily, ensuring accurate and reliable measurements.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Designing an Ornithopter</title>
       <link>https://javamurray.com/projects/ornithopter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
