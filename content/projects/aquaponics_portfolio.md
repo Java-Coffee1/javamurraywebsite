@@ -7,12 +7,30 @@ hidemeta: true
 
 ## Java Murray. 
 
-# Project Overveiw. 
+### Project Goal
+
+The goal of this project was to design and build a low cost aquaponics monitoring system capable of collecting and displaying real-time environmental data. The system needed to be reliable, easy to maintain, and simple for users to monitor and calibrate.
+
+### Design Philosophy
+
+My design philosophy is to solve problems using the simplest and most effective solution possible. I believe that systems should be reliable, easy to understand, and cost effective. Throughout this project, I focused on simplifying both the hardware and software while still providing accurate monitoring and a good user experience.
+
+### Skills Learned
+
+- ESP32 Development
+- Sensor Calibration
+- Dashboard Design
+- Grafana
+- ESP-NOW Communication
+- Electronics Assembly
+- IoT System Design
+
+## Project Overview. 
 This project involved designing and developing a system to monitor live fish and water conditions in real time. The system collected data, including water level, pH, and temperature, using a water level sensor, pH sensor, and temperature sensors.
 
-We used a ESP32 to gather data from the sensors and transmit it to a dashboard, where users could monitor the health of the system in real time. In addition to the monitoring of the dashboard, we also designed a calibration dashboard that allowed sensors to be calibrated and configured easily, ensuring accurate and reliable measurements.
+We used an ESP32 to gather data from the sensors and transmit it to a dashboard, where users could monitor the health of the system in real time. In addition to the monitoring of the dashboard, we also designed a calibration dashboard that allowed sensors to be calibrated and configured easily, ensuring accurate and reliable measurements.
 
-The final system provides a centralized platform for monitoring water quality and environmental conditions of the green house, helping to maintain a healthy habitat for live fish and plants.
+The final system provides a centralized platform for monitoring water quality and environmental conditions of the greenhouse, helping to maintain a healthy habitat for live fish and plants.
 
 <div style="display: flex; gap: 10px;">
   <img src="/Aquaponics_Sensor/box.png" alt="First image" style="width: 50%;">
@@ -54,10 +72,8 @@ The display unit receives updates from the main ESP32 using the ESP-NOW communic
 </div>
 
 
-# Conclusion
+## Conclusion
 
-This project was both challenging and rewarding to work on. Throughout the development process, I learned a great deal about C++ programming, embedded systems, and sensor integration. One of the most valuable lessons was learning how to iterate on a design by building a prototype, identifying problems, and continuously improving the system through multiple development phases.
+One thing I would change if I were to complete this project again is how I approached learning new concepts. During development, I often focused on getting features working as quickly as possible, which sometimes led me to rely on existing code examples without fully understanding how they worked. While this helped me make progress, I realized that spending more time learning the underlying concepts would have improved both my programming skills and my ability to solve problems independently. In future projects, I would balance development time with dedicated learning and research so that I gain a deeper understanding of the technologies I am using.
 
-I also gained experience designing communication systems between devices using the ESP-NOW protocol, creating custom user interfaces, and developing dashboards to visualize real-time data. In addition, I learned how to work with a variety of hardware components, including ESP32 microcontrollers, Raspberry Pi computers, pH sensors, temperature sensors, and water level sensors.
-
-By the end of the project, I had successfully developed a complete aquaponics monitoring system that can collect, transmit, and display environmental data in real time. This project strengthened both my programming and engineering skills while giving me hands on experience with designing a real-world IoT solution. Overall, I am proud of the final result and of the knowledge and experience I gained throughout the project.
+Overall, this project taught me the importance of iterative design, testing, and continuous improvement. Each version of the system solved problems that were discovered in the previous version, resulting in a more reliable and user-friendly final product. The experience strengthened my skills in programming, electronics, communication systems, and user interface design, while giving me valuable experience developing a real-world IoT solution from concept to completion.

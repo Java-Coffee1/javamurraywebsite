@@ -13,9 +13,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://javamurray.com/projects/aquaponics_portfolio/</guid>
       <description>&lt;h2 id=&#34;java-murray&#34;&gt;Java Murray.&lt;/h2&gt;
-&lt;h1 id=&#34;project-overveiw&#34;&gt;Project Overveiw.&lt;/h1&gt;
-&lt;p&gt;This project involved designing and developing a system to monitor live fish and water conditions in real time. The system collected data, including water level, pH, and temperature, using a water level sensor, pH sensor, and temperature sensors.&lt;/p&gt;
-&lt;p&gt;We used a ESP32 to gather data from the sensors and transmit it to a dashboard, where users could monitor the health of the system in real time. In addition to the monitoring of the dashboard, we also designed a calibration dashboard that allowed sensors to be calibrated and configured easily, ensuring accurate and reliable measurements.&lt;/p&gt;</description>
+&lt;h3 id=&#34;project-goal&#34;&gt;Project Goal&lt;/h3&gt;
+&lt;p&gt;The goal of this project was to design and build a low cost aquaponics monitoring system capable of collecting and displaying real-time environmental data. The system needed to be reliable, easy to maintain, and simple for users to monitor and calibrate.&lt;/p&gt;
+&lt;h3 id=&#34;design-philosophy&#34;&gt;Design Philosophy&lt;/h3&gt;
+&lt;p&gt;My design philosophy is to solve problems using the simplest and most effective solution possible. I believe that systems should be reliable, easy to understand, and cost effective. Throughout this project, I focused on simplifying both the hardware and software while still providing accurate monitoring and a good user experience.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Designing an Ornithopter</title>
