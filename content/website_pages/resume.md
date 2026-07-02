@@ -30,7 +30,7 @@ program, where I managed a team of four people. Where I learn how to manage and 
 ### Education
 ___
 * **Argyle Secondary School**:
-Current student (Grade 11)
+Current student (Grade 12)
 * **Certificates**:
     * **Cansail 1-6, Hollyburn Sailing Club**: July 2019 - August 2023
     * **Coach Boat Safety**: May 31 - June 1, 2024
