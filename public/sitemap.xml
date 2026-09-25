@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://javamurray.com/aboutme/</loc>
+    <loc>http://localhost:1313/aboutme/</loc>
   </url><url>
-    <loc>https://javamurray.com/projects/aquaponics_portfolio/</loc>
+    <loc>http://localhost:1313/projects/aquaponics_portfolio/</loc>
   </url><url>
-    <loc>https://javamurray.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://javamurray.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://javamurray.com/projects/ornithopter/</loc>
+    <loc>http://localhost:1313/projects/ornithopter/</loc>
   </url><url>
-    <loc>https://javamurray.com/projects/hydrontank/</loc>
+    <loc>http://localhost:1313/projects/hydrontank/</loc>
   </url><url>
-    <loc>https://javamurray.com/resume/</loc>
+    <loc>http://localhost:1313/resume/</loc>
   </url><url>
-    <loc>https://javamurray.com/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://javamurray.com/projects/frc_portfolio/</loc>
+    <loc>http://localhost:1313/projects/frc_portfolio/</loc>
   </url><url>
-    <loc>https://javamurray.com/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>https://javamurray.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://javamurray.com/website_pages/</loc>
+    <loc>http://localhost:1313/website_pages/</loc>
   </url>
 </urlset>
