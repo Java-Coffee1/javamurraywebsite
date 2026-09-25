@@ -22,7 +22,7 @@ This year, I’ve been working on a series of small, focused projects that all c
 ---
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; text-align: center;">
   <figure style="margin: 0;">
-    <img src="/portfolio/Render.png" alt="Proto 2 Gearbox Front" style="width: 400;">
+    <img src="/ornithopter/Render.png" alt="Proto 2 Gearbox Front" style="width: 400;">
     <figcaption style="font-style: sans-serif; color: #A3C2E1; font-size: 0.9rem;">This is a render image of the Ornithopter.</figcaption>
   </figure>
 </div>
@@ -36,7 +36,7 @@ This year, I’ve been working on a series of small, focused projects that all c
 ---
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; text-align: center;">
   <figure style="margin: 0;">
-    <img src="/portfolio/Protype1.png" alt="Proto 2 Gearbox Front" style="width: 400;">
+    <img src="/ornithopter/Protype1.png" alt="Proto 2 Gearbox Front" style="width: 400;">
     <figcaption style="font-style: sans-serif; color: #A3C2E1; font-size: 0.9rem;">This is a render of my ornithopter flaping design.</figcaption>
   </figure>
 </div>
@@ -49,7 +49,7 @@ This prototype was my first attempt. I where I over complicate it. When I starte
 ---
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; text-align: center;">
   <figure style="margin: 0;">
-    <img src="/portfolio/proto1-wheel.png" alt="Proto 2 Gearbox Front" style="width: 200px;">
+    <img src="/ornithopter/proto1-wheel.png" alt="Proto 2 Gearbox Front" style="width: 200px;">
     <figcaption style="font-style: sans-serif; color: #A3C2E1; font-size: 0.9rem;">Design 1 Gearbox</figcaption>
   </figure>
 </div>
@@ -63,9 +63,9 @@ If you look at it from this angle, I was trying to take an entire weight onto a 
 ### Gear Box Design 2
 This was my next idea of converting a rotation movement to a liner movement. I wanted to use a scotch yoke for this design. However, when I started working on it there were too many moving designs and I shifted gears to work on a different design.
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; text-align: center;">
-  <img src="/portfolio/proto-1-gearbox/design-1-gb-front.jpeg" alt="Gear Box Front" style="width: 200px;">
-  <img src="/portfolio/proto-1-gearbox/g-gb-front.jpeg" alt="Motor Gear Wear Photo" style="width: 200px;">
-  <img src="/portfolio/proto-1-gearbox/gears-gb.jpeg" alt="Gear after Test 1" style="width: 200px;">
+  <img src="/ornithopter/proto-1-gearbox/design-1-gb-front.jpeg" alt="Gear Box Front" style="width: 200px;">
+  <img src="/ornithopter/proto-1-gearbox/g-gb-front.jpeg" alt="Motor Gear Wear Photo" style="width: 200px;">
+  <img src="/ornithopter/proto-1-gearbox/gears-gb.jpeg" alt="Gear after Test 1" style="width: 200px;">
 </div>
 
 My next design I went for a half and half approach. Some of the design were made out of arcrylic and some of the design were made out of resin. From that I was able to conclude that this design was the best for strength. 
