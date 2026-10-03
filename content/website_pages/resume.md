@@ -6,7 +6,7 @@ ShowPostNavLinks: false
 hidemeta: true
 url: "/resume/"
 ---
-#### Contact: java@javamuuray.com 
+#### Contact: java@javamuray.com 
 
 ## Experience
 ___
