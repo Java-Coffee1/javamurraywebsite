@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: 'Portfolio'
 draft: true
 hidemeta: true
@@ -57,4 +57,4 @@ This
 
 
 ### Concultion 
-yap here you fag java -->
+yap here you fag java
