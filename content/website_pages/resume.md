@@ -59,7 +59,7 @@ ___
 * Project management (aquaponics, sound lead)
 * Open to feedback, always looking to to improve myself
 * Adaptability 
-* Taking Initiative"
+* Taking Initiative
 </div>
 
 </div>
