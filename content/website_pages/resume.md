@@ -8,8 +8,6 @@ url: "/resume/"
 ---
 #### Contact: java@javamurray.com 
 
-<a class="button pdf-link" href="/resume.pdf" download="Java-Murray-Resume.pdf" style="text-decoration:none;">Download Resume (PDF)</a>
-
 ## Experience
 ___
 * **Sailing Coach**:
@@ -64,3 +62,5 @@ ___
 
 </div>
 
+
+<a class="button pdf-link" href="/resume.pdf" download="Java-Murray-Resume.pdf" style="text-decoration:none;">Download Resume (PDF)</a>
