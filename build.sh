@@ -5,9 +5,14 @@
 set -e
 cd "$(dirname "$0")"
 
-# SOURCE_DATE_EPOCH keeps the PDF the same when the resume hasn't changed
-SOURCE_DATE_EPOCH=0 pandoc content/website_pages/resume.md -s --css resume.css \
-    --pdf-engine=weasyprint -o static/resume.pdf
+# Only rebuild the PDF when its source has changed, and drop the old file first
+if [ ! -f static/resume.pdf ] \
+    || [ content/website_pages/resume.md -nt static/resume.pdf ] \
+    || [ resume.css -nt static/resume.pdf ]; then
+    rm -f static/resume.pdf
+    SOURCE_DATE_EPOCH=0 pandoc content/website_pages/resume.md -s --css resume.css \
+        --pdf-engine=weasyprint -o static/resume.pdf
+fi
 hugo
 git add -A
 read -p "Commit message: " msg
