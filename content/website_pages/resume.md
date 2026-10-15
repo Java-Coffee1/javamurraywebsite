@@ -6,12 +6,17 @@ ShowPostNavLinks: false
 hidemeta: true
 url: "/resume/"
 ---
-#### Contact: java@javamuray.com 
+#### Contact: java@javamurray.com 
+
+<a class="button pdf-link" href="/resume.pdf" download="Java-Murray-Resume.pdf" style="text-decoration:none;">Download Resume (PDF)</a>
 
 ## Experience
 ___
 * **Sailing Coach**:
 I coach sailing camps during the summer, working with youth aged 7–16. I teach and mentor sailors through the CANSail Levels 1–4 program, helping them develop sailing skills, confidence, and teamwork on the water.
+
+* **Home Lab**:
+I run my own servers and network at home. It runs on a pfSense firewall,along side a TrueNAS storage server, and a NixOS server hosting over a dozen self-hosted services such as (Jellyfin, Immich, Vaultwarden, Authentik) behind a Traefik reverse proxy with automatic HTTPS. 
 
 ### Volunteer
 
@@ -46,10 +51,15 @@ Current student (Grade 12)
 ### Skills
 ___
 
+* Linux (NixOS), Docker
+* Networking (pfSense, DNS, WireGuard VPN)
+* Servers and storage (TrueNAS, ZFS)
+* Live sound and theatre tech
+* Python, C++, Git, CAD (Onshape, Fusion)
 * Project management (aquaponics, sound lead)
-* Open to feedback, allways looking to imporve my self
-* adaptability 
-* being intitaive.
+* Open to feedback, always looking to to improve myself
+* Adaptability 
+* Taking Initiative"
 </div>
 
 </div>

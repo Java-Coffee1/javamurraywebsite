@@ -73,23 +73,18 @@ I have a love for design and prototyping, especially when it comes to turning id
       <link>https://javamurray.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://javamurray.com/resume/</guid>
-      <description>&lt;h4 id=&#34;contact&#34;&gt;Contact: &lt;a href=&#34;mailto:java@javamuray.com&#34;&gt;java@javamuray.com&lt;/a&gt;&lt;/h4&gt;
+      <description>&lt;h4 id=&#34;contact&#34;&gt;Contact: &lt;a href=&#34;mailto:java@javamurray.com&#34;&gt;java@javamurray.com&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a class=&#34;button pdf-link&#34; href=&#34;https://javamurray.com/resume.pdf&#34; download=&#34;Java-Murray-Resume.pdf&#34; style=&#34;text-decoration:none;&#34;&gt;Download Resume (PDF)&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
 &lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Sailing Coach&lt;/strong&gt;:
-I coach sailing camps during the summer, working with youth aged 7–16. I teach and mentor sailors through the CANSail Levels 1–4 program, helping them develop sailing skills, confidence, and teamwork on the water.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;volunteer&#34;&gt;Volunteer&lt;/h3&gt;
-&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;First Robotics Team Role Mechatronics&lt;/strong&gt;:
-I help in CAD, Software, Electronics. Designing and prototyping Our Teams robot. Facing real world engineering, logistical, and management challenges.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sailing Coach&lt;/strong&gt;:
+I coach sailing camps during the summer, working with youth aged 7–16. I teach and mentor sailors through the CANSail Levels 1–4 program, helping them develop sailing skills, confidence, and teamwork on the water.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Sound Lead Technician&lt;/strong&gt;:
-I was the sound lead for the Argyle Drama Theatre Production
-program, where I managed a team of four people. Where I learn how to manage and lead a team whille also being a team player.&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Home Lab&lt;/strong&gt;:
+I run my own servers and network at home. It runs on a pfSense firewall,along side a TrueNAS storage server, and a NixOS server hosting over a dozen self-hosted services such as (Jellyfin, Immich, Vaultwarden, Authentik) behind a Traefik reverse proxy with automatic HTTPS.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
