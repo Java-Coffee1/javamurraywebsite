@@ -55,7 +55,7 @@ ___
 * Live sound and theatre tech
 * Python, C++, Git, CAD (Onshape, Fusion)
 * Project management (aquaponics, sound lead)
-* Open to feedback, always looking to to improve myself
+* Open to feedback, always looking to improve myself
 * Adaptability 
 * Taking Initiative
 </div>
