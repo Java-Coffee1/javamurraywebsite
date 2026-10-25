@@ -22,9 +22,7 @@ I run my own servers and network at home. It runs on a pfSense firewall,along si
 I help in CAD, Software, Electronics. Designing and prototyping Our Teams robot. Facing real world engineering, logistical, and management challenges.
 
 * **Sound Lead Technician**:
-I was the sound lead for the Argyle Drama Theatre Production
-program, where I managed a team of four people. Where I learn how to manage and lead a team whille also being a team player.
-
+I was the sound lead for the Argyle Drama Theatre Production program, where I learned to use the Behringer X32 for live mixing,managed wireless mics for the cast, helped rebuild the theatre's cabling, tech booth, and amp setup, and trained and managed a team of 4 people.
 
 <div style="display:flex; flex-wrap:wrap; gap:2rem;">
 
