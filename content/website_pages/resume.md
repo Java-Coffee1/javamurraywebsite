@@ -38,6 +38,7 @@ Current student (Grade 12)
     * **CPR/AED Level C**: November 2024 
     * **CANSail 1-4 Technical Clinic**: March 28 – 30
     * **Fundamental Course**: Feb 28 – March 2
+    * **Networking Basics**: Nov 16 2026
 
 
 </div>

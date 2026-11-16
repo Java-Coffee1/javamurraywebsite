@@ -47,7 +47,9 @@ I coach sailing camps during the summer, working with youth aged 7–16. I teach
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Home Lab&lt;/strong&gt;:
-I run my own servers and network at home. It runs on a pfSense firewall,along side a TrueNAS storage server, and a NixOS server hosting over a dozen self-hosted services such as (Jellyfin, Immich, Vaultwarden, Authentik) behind a Traefik reverse proxy with automatic HTTPS.&lt;/p&gt;</description>
+I run my own servers and network at home. It runs on a pfSense firewall,along side a TrueNAS storage server, and a NixOS server hosting over a dozen self-hosted services such as (Jellyfin, Immich, Vaultwarden, Authentik) behind a Traefik reverse proxy with automatic HTTPS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
